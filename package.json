@@ -1,0 +1,19 @@
+{
+  "name": "bitbucket-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhautik-78/bitbucket-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhautik-78/bitbucket-server/issues"
+  },
+  "homepage": "https://github.com/Bhautik-78/bitbucket-server#readme"
+}
